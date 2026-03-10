@@ -58,6 +58,10 @@ This page provides an executive overview of major global military powers.
 
 To compare strategic military scale across countries and identify dominant global patterns.
 
+### Dashboard Preview - Global Defense Overview
+
+![Alt text](global_defense_overview_DB1.png)
+
 ---
 
 ### Page 2: Country Strategic Profile (Drillthrough Analysis)
@@ -77,6 +81,10 @@ This page uses drillthrough functionality to analyze a selected country individu
 ### Purpose:
 
 To understand how one country balances manpower, spending, and economic strength.
+
+### Dashboard Preview - Global Defense Overview
+
+![Alt text](country_strategic_profile_DB2.png)
 
 ---
 
@@ -160,6 +168,6 @@ global-military-strength-analysis-powerbi/
 
 ---
 
-## Author Note
+## Author's Note
 
 This project was built as a portfolio-level analytical dashboard to demonstrate Power BI dashboard design, DAX usage, drillthrough navigation, and analytical storytelling using geopolitical data.
