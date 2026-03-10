@@ -60,7 +60,7 @@ To compare strategic military scale across countries and identify dominant globa
 
 ### Dashboard Preview - Global Defense Overview
 
-![Alt text](global_defense_overview_DB1.png)
+![Alt text](Dashboards/global_defense_overview_DB1.png)
 
 ---
 
@@ -82,9 +82,10 @@ This page uses drillthrough functionality to analyze a selected country individu
 
 To understand how one country balances manpower, spending, and economic strength.
 
-### Dashboard Preview - Global Defense Overview
-
-![Alt text](country_strategic_profile_DB2.png)
+### Dashboard Preview - Country Strategic Profile
+![Alt text](Dashboards/country_strategic_profile_DB2.png)
+![Alt text](Dashboards/country_strategic_profile_DB3.png)
+![Alt text](Dashboards/country_strategic_profile_DB4.png)
 
 ---
 
@@ -160,9 +161,9 @@ Future versions may also integrate time-series military expenditure data from in
 
 ```text
 global-military-strength-analysis-powerbi/
-│── global_military_strength_analysis.pbix
+│── Dashboards/
 │── dataset/
-│── screenshots/
+│── global_military_strength_analysis.pbix
 │── README.md
 ```
 
